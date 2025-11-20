@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Copy of 晚餐吃什麼 (What's for Dinner?)",
+  "description": "A web application that uses your location to recommend nearby dinner restaurants with various cuisine types, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
